@@ -1,5 +1,8 @@
 _repo: Foliage--Various-Poems_9323
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davies, W. H. (William Henry)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3014
     wikipedia: http://en.wikipedia.org/wiki/W._H._Davies
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9323#Foliage--Various-Poems
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
